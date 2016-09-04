@@ -1,0 +1,9 @@
+Building FCoin
+
+See doc/readme-qt.rst for instructions on building FCoin Qt,
+the intended-for-end-users, nice-graphical-interface, reference
+implementation of FCoin.
+
+See doc/build-*.txt for instructions on building FCoind,
+the intended-for-services, no-graphical-interface, reference
+implementation of FCoin.

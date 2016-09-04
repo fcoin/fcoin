@@ -1,0 +1,2 @@
+debian/bin/FCoind usr/bin
+src/FCoind usr/lib/FCoin

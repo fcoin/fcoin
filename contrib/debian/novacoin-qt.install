@@ -1,0 +1,5 @@
+FCoin-qt usr/bin
+share/pixmaps/FCoin32.xpm usr/share/pixmaps
+share/pixmaps/FCoin80.xpm usr/share/pixmaps
+debian/FCoin-qt.desktop usr/share/applications
+debian/FCoin-qt.protocol usr/share/kde4/services/

@@ -1,0 +1,13 @@
+[Desktop Entry]
+Encoding=UTF-8
+Name=FCoin
+Comment=FCoin P2P Cryptocurrency
+Comment[ru]=FCoin, P2P криптовалюта
+Comment[fr]=FCoin, monnaie virtuelle cryptographique pair à pair
+Comment[tr]=FCoin, eşten eşe kriptografik sanal para birimi
+Exec=/usr/bin/FCoin-qt
+Terminal=false
+Type=Application
+Icon=/usr/share/pixmaps/FCoin80.xpm
+MimeType=x-scheme-handler/FCoin;
+Categories=Office;
